@@ -1,0 +1,54 @@
+
+body {font-family: Karla;
+font-size: 16px;}
+h1 {color: #2ab2af;
+  padding: 1rem;
+}
+h2
+{
+   color: #c0df34;
+}
+h3 {
+  margin-top:2rem;
+  color: white;
+}
+
+p {width: 50%;
+color: white;
+  position: relative;
+  padding-top: 1rem;
+text-align: left;}
+
+.top-paragraph {
+color: #98a6bd;
+  width: 50%;
+}
+.container {
+  margin-top: 100px;
+}
+
+.subscription {
+  background-color:#2ab2af;
+}
+.month {margin-bottom: 0;}
+.cost {color: white;
+font-size: 3rem;}
+.per-month {
+  color: #e5eff5;
+  position: absolute;
+top: 3rem;
+left: 6rem;
+}
+.col-1-paragraph {padding-top: 0;}
+
+.why-us {
+  background-color:#45d3d1;
+}
+.col-sm-6 {padding-top: 2rem;
+padding-left: 2rem;}
+.btn {background-color: #c0df34;
+
+border-color: #c0df34;
+margin-bottom: 2rem;}
+.attribution { font-size: 11px; text-align: center; margin-top: 2rem;}
+.attribution a { color:#3e52a3; }
